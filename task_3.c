@@ -10,7 +10,7 @@ static int goblin_init(void){
 }
 
 static void goblin_exit(void){
-	printk(KERN_ALERT ("Goodbye, cruel world\n"));
+	printk(KERN_ALERT "Goodbye, cruel world\n");
 }
 
 module_init(goblin_init);

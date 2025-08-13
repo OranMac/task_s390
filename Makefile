@@ -1,5 +1,5 @@
 obj-m += task_1.o
-obj-m += task_2.o
+# obj-m += task_2.o
 obj-m += task_3.o
 
 all:
