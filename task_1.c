@@ -1,7 +1,6 @@
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/delay.h>
-#include <kern_levels.h>
 
 MODULE_LICENSE("Dual BSD/GPL");
 
